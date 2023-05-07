@@ -45,7 +45,7 @@
 <body>
     <div class="container">
         <h1>Biodata</h1>
-        <img src="https://storage.cloud.google.com/profile-antpss/profile.jpg" alt="Profile Picture">
+        <img src="https://storage.googleapis.com/profile-antpss/profile.jpg" alt="Profile Picture">
             
         <table>
             <tr>
